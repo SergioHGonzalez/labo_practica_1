@@ -17,4 +17,5 @@ mi_data_frame <- data.frame(
 )
 mi_data_frame[2,]#Retengo los elementos correspondientes a la segunda fila
 mi_data_frame[,2]#Retengo los elementos correspondientes a la segunfa columna
+pepe = 1
 
